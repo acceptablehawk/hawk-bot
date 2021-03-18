@@ -17,3 +17,5 @@ h!snipe - Returns Last Deleted Message
 h!msg - Sends a Special Message
 
 h!dank  - Returns the Dank
+
+h!help - Returns Command List
