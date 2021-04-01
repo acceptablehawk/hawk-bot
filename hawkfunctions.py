@@ -1,9 +1,4 @@
-'''
-Author: Neek Panchal
-ID: 200804310
-Email: panc4310@mylaurier.ca
-__updated__ = "2020-12-31"
-'''
+
 from bs4 import BeautifulSoup
 import discord
 import requests 
