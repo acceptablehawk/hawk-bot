@@ -1,9 +1,3 @@
-'''
-Author: Neek Panchal
-ID: 200804310
-Email: panc4310@mylaurier.ca
-__updated__ = "2021-01-14"
-'''
 
 # Imports (Libraries)
 
